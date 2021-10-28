@@ -7,7 +7,7 @@
 <meta name="description" content="סדנאות לארגונים וסדנאות גיבוש">
 <meta name="keywords" content="סדנאות ODT,סדנאות גיבוש,סדנאות לעובדים,סדנאות מנהלים,סדנת outdoor,סדנת אאוטדור,סדנאות לאירגונים,סדנאות גיבוש עובדים,סדנאות למיומנויות,סדנאות למידה ארגונית,ייעוץ ארגוני,פיתוח ארגוני">
 <meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
-<link rel="icon" type="image/png" href="http://example.com/image.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="js/jquery-1.11.0.min.js"></script>

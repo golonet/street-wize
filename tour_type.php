@@ -24,7 +24,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="description" content="<?php echo $tour[0]->getLong_text() ?>">
 <meta name="keywords" content="<?php echo $tour[0]->getKeywords() ?>" />
 <meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
-<link rel="icon" type="image/png" href="http://example.com/image.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="js/jquery-1.11.0.min.js"></script>
