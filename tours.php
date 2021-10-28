@@ -16,7 +16,7 @@ $tours = Tour::getTours();
 <meta name="keywords" content="סיורים בתל אביב,סיור בתל אביב,סיור ביפו,טיולים בתל אביב,טיול בתל אביב,סיורים בת`א,סיור גרפיטי,סיורים בשרונה,מדריכים בתל אביב,טיול בתל אביב נווה צדק,סיור בנווה צדק,סיור טעימות,סיורים בנווה צדק,סיורים בשרונה,סיור בשוק הפשפשים,סיורים מודרכים בתל אביב">
 <meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
 
-<link rel="icon" type="image/png" href="images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicont.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="js/jquery-1.11.0.min.js"></script>
