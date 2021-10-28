@@ -8,6 +8,7 @@
 <meta name="keywords" content="אימון אישי, אימון אישי לחיים, קואצ'ינג, קואצינג, מאמנים אישיים, מאמן אישי,coaching,קואצ'ינג אישי, מאמנת אישית,  תהליך אימוני, אימון יחסים, אימון לזוגיות">
 
 <meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
+<link rel="icon" type="image/png" href="http://example.com/image.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="js/jquery-1.11.0.min.js"></script>

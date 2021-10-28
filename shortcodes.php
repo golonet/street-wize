@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>Wines a Hotels and Restaurants category Flat Bootstrap Responsive  Website Template | Short Codes :: w3layouts</title>
+<link rel="icon" type="image/png" href="http://example.com/image.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery-1.11.0.min.js"></script>

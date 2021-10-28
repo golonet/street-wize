@@ -94,6 +94,7 @@ $_SESSION['linir'] = uniqid();
 <meta name="description" content="צור קשר">
 <meta name="keywords" content="סיורים בתל אביב,סיור בתל אביב,סיור ביפו,טיולים בתל אביב,טיול בתל אביב,סיורים בת`א,סיור גרפיטי,סדנאות ODT,סדנאות גיבוש,סדנאות לעובדים,סדנאות מנהלים,סדנת outdoor,סדנת אאוטדור,סדנאות לאירגונים,סדנאות גיבוש עובדים">
 <meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
+<link rel="icon" type="image/png" href="http://example.com/image.png" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="js/jquery-1.11.0.min.js"></script>
