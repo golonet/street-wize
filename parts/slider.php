@@ -8,7 +8,7 @@
            <div class="flexslider">
              <ul class="slides">
 			   <li>
-				   <img src="images/logo_new.png" class="img-responsive slider_ng" alt="" style="border-radius: 15px; width: 100%;">
+				   <img src="images/web new.png" class="img-responsive slider_ng" alt="" style="border-radius: 15px; width: 100%;">
 				   <?php if (strpos($_SERVER['REQUEST_URI'],'tours.php')==false): ?>
 				   <h3>סיורים בת"א</h3>
 				  

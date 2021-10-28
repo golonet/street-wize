@@ -58,7 +58,7 @@ background: none;
 	 
 	 <?php require_once 'parts/slider.php'; ?>
 	 
-<!-- 	<img alt="לוגו חוכמת רחוב" src="images/logo_new.png" class="headerLogo"  /> -->
+<!-- 	<img alt="לוגו חוכמת רחוב" src="images/web new.png" class="headerLogo"  /> -->
 	<br /><br />
 		<h1 style="text-align: center;color: #f9824a;font-size: 54px;margin-top: 48px;">סיורים בתל אביב</h1>		
 		<p class="phoneArea" style="width: 100%; text-align: center; padding: 10px;">

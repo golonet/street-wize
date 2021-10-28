@@ -135,7 +135,7 @@ body{color:#000;}
 <div class="contact w3l-3">
 	 <div class="container">
 	 
-	 <img alt="לוגו חוכמת רחוב" src="images/logo_new.png" class="headerLogo" />
+	 <img alt="לוגו חוכמת רחוב" src="images/web new.png" class="headerLogo" />
 			<div class="contact-form w3ls-3">
 				<?php if (!empty($userMsg)): ?>
 				<h3>- <?php echo $userMsg; ?> -</h3>

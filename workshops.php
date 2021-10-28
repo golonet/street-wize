@@ -48,7 +48,7 @@ body{color: #000;}
 <div class="about w3l-2">
 	<div class="container" style="padding-bottom: 10px;"> 
 	
-	<img alt="לוגו חוכמת רחוב" src="images/logo_new.png" class="headerLogo" />
+	<img alt="לוגו חוכמת רחוב" src="images/web new.png" class="headerLogo" />
 	
 	<br />
 	<br/>

@@ -62,7 +62,7 @@ background: none;
 						});
 			</script>
 				 
-				 <img alt="לוגו חוכמת רחוב" src="images/logo_new.png" class="headerLogo" />
+				 <img alt="לוגו חוכמת רחוב" src="images/web new.png" class="headerLogo" />
 				
 				<?php foreach($galeryPics as $galeryPic): ?>
 				
