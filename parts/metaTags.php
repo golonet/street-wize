@@ -34,9 +34,8 @@
 	<meta name="google-site-verification" content="D6Pn9daioFpHic7HS1OjiQVUHf6F-PvJT_z5ZwVbZN4" />
 
 	
-	<!-- <link href="images/feet-32-239662.png" rel="shortcut icon" type="image/vnd.microsoft.icon"> -->
-	<link rel="icon"   type="image/png"  href="images/favicont.png?v=6" />
-	
+	<!-- <link href="images/feet-32-239662.png" rel="shortcut icon" type="image/vnd.microsoft.icon"> -->	
+	<link rel="icon" type="image/png" href="images/favicont.png" />
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />	
 	<link rel="stylesheet" href="css/fontello.css"  type="text/css" />
 	<link href="https://fonts.googleapis.com/css2?family=Bellefair&display=swap" rel="stylesheet">	
